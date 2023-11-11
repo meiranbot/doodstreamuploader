@@ -17,7 +17,7 @@
         "web",
         "series"
     ],
-    "repository" : "https://github.com/madloyer/doodstreamuploader",
+    "repository" : "https://github.com/meiranbot/doodstreamuploader",
     "env" : {
         "BOT_TOKEN" : {
             "description" : "Get From https://t.me/BotFather"
@@ -44,7 +44,7 @@
     "formation" : {
         "worker" : {
             "quantity" : 1,
-            "size" : "free"
+            "size" : "eco"
         }
     }
 }
